@@ -1,0 +1,22 @@
+.todo{
+    background-color: #6fbfed;
+    border-bottom: 1px darkkhaki solid;
+    border-radius: 5px;
+    margin-left:2%;
+    margin-right: 2%;
+    padding-left: 10px;
+    padding-right: 20px;
+    margin-top: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.del{
+    color: white;
+    background-color: red;
+    float: right;
+    border-radius: 50%;
+}
+.isComplete{
+    text-decoration: line-through;
+    background-color: #81ed34;
+}
